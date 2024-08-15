@@ -1,4 +1,4 @@
-# Learning Management System (LMS)
+# Knowlegde Plus
 
 This project is a PHP-based Learning Management System (LMS) designed to facilitate online learning by providing a platform where teachers can create and manage video course playlists, students can access, like, and comment on courses, and the platform is overseen by a master admin. Guests can also explore available courses.
 
